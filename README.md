@@ -38,20 +38,20 @@
   <h3>Tecnológias.</h3>
   <ul>
     <li>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript.
-      </a>
-    </li>
-    <li>
-      <a href="https://styled-components.com/">
-        styled-components.
-      </a>
-    </li>
-    <li>
       <a href="https://nextjs.org/">NEXT.js.
       </a>
     </li>
     <li>
       <a href="https://pt-br.reactjs.org/docs/getting-started.html">REACT.
+      </a>
+    </li>
+    <li>
+      <a href="https://styled-components.com/">
+        Styled-components.
+      </a>
+    </li>
+    <li>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript.
       </a>
     </li>
     <li>
