@@ -79,7 +79,7 @@
       para utilizar da aplicação, será necessario fazer alguns procedimentos de instalção de pacotes
     </p>
 
-    ```bash
+```bash
 # iniciar projeto Next.js
 $ yarn create next-app
 $ npx create-next-app
@@ -91,11 +91,10 @@ $ npm install framer-motion
 #Styled-Components
 $ yarn add styled-components
 $ npm install styled-components
-
 ```
 
-  <h3>Baixar Projeto.</h3>  
-  
+<h3>Baixar Projeto.</h3>  
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/FullBarbosa/QuizJS.git QuizJS
@@ -105,7 +104,6 @@ $ yarn install
 
 # Install dependencies NPM
 $ npm install 
-
 ```
  </div>
 
