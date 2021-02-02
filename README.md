@@ -95,6 +95,7 @@ $ npm install styled-components
 ```
 
   <h3>Baixar Projeto.</h3>  
+  
 ```bash
 # Clone this repository
 $ git clone https://github.com/FullBarbosa/QuizJS.git QuizJS
