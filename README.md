@@ -28,7 +28,7 @@
 <div>
   <h3>Sobre.</h3>
   <h4 id="sobre" > <b>Projeto feito em Next.js.</b>
-    Projeto voltado para uma interação com o usuario, onde o gamer "QUIZ" pode testar seus conhecimentos voltados a linguagem de programação JAVASCRIPT, de forma divertida e dinamica. </h4>
+    Voltado para uma interação com o usuario, onde o gamer "QUIZ" pode testar seus conhecimentos voltados a linguagem de programação JAVASCRIPT, de forma divertida e dinamica. </h4>
 
   <img src="./src/img/ProjetoQuiz.gif" alt="Gif">
 </div>
