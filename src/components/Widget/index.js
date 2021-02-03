@@ -8,6 +8,8 @@ const Widget = styled.div`
   border-radius: 4px;
   overflow: hidden;
 
+
+
   h1, h2, h3 {
     font-size: 16px;
     font-weight: 700;
@@ -35,6 +37,11 @@ Widget.Header = styled.header`
 
 Widget.Content = styled.div`
   padding: 24px 32px 32px 32px;
+
+  @media screen and (max-width: 500px) {
+  margin: auto;
+  
+};
   & > *:first-child {
     margin-top: 0;
   }

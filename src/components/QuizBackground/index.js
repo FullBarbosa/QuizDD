@@ -11,6 +11,8 @@ const QuizBackground = styled.div`
   flex: 1;
   @media screen and (max-width: 500px) {
     background-image: none;
+    overflow:hidden;
+    
     &:after {
       content: "";
       background-size: cover;
@@ -19,9 +21,10 @@ const QuizBackground = styled.div`
         linear-gradient(transparent, ${({ theme }) => theme.colors.mainBg}),
         url(${({ backgroundImage }) => backgroundImage});
       display: block;
-      width: 100vh;
-      height: 210px;
+      width: 100%;
+      height: 48rem;
       position: absolute;
+  
       top: 0;
       left: 0;
       right: 0;
